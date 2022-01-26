@@ -88,3 +88,4 @@ for i in range(24):
 #to hold the
 #output window
 turtle.done()
+print("Happy Republic Day Guys")
